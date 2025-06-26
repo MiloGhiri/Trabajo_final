@@ -36,6 +36,7 @@ public class TestArbol {
         Persona p15 = new Persona(850, "Brayan");
 
         
+        
         // Insertar personas
         arbol.insertar(p1);
         arbol.insertar(p2);
